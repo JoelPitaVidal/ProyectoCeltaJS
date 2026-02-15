@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import './parte1.css';
+
 
 const GAME_DURATION = 30;
 const SHOT_COOLDOWN_MS = 3000;
